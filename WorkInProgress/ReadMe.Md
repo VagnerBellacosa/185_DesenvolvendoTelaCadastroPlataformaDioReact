@@ -31,7 +31,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação do Desafio](https://web.dio.me/lab/tela-de-cadastro/learning/6489c1e2-73d4-41b2-8713-faedd75df7d3)[Entendendo o Desafio](https://web.dio.me/lab/tela-de-cadastro/learning/73a21078-0a1e-4846-a38c-821c53a59555)
+- [Apresentação do Desafio](https://web.dio.me/lab/tela-de-cadastro/learning/6489c1e2-73d4-41b2-8713-faedd75df7d3)
+- [Entendendo o Desafio](https://web.dio.me/lab/tela-de-cadastro/learning/73a21078-0a1e-4846-a38c-821c53a59555)
 
 # Entendendo o Desafio
 
